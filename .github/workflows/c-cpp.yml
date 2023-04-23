@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  build: pointerToArray.c
 
     runs-on: ubuntu-latest
 
