@@ -32,8 +32,9 @@ int main(){
         }
     }
     char e = toupper('e');
+    char f = to lower('F');
     strcpy(b, a);
-    printf("%s %s %d %c", a, b, count, e);
+    printf("%s %s %d %c %c", a, b, count, e, f);
     printf("Enter C : ");
     scanf("%[^,]s", c);
     c[1] = 'e';
