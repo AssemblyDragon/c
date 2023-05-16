@@ -1,3 +1,5 @@
+// conveting a binary number to decimal and vice versa
+
 #include<stdio.h>
 
 int numberOfDigits(int n){
