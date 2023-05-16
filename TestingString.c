@@ -1,3 +1,5 @@
+// experimenting with strings in c
+
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
