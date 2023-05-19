@@ -1,3 +1,5 @@
+// Checking if a number is armstrong or not
+
 #include<stdio.h>
 
 int numberOfDigits(int n){
