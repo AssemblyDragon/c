@@ -1,3 +1,5 @@
+// creating a pointer to an array of integers
+
 #include <stdio.h>
 
 int main(){
