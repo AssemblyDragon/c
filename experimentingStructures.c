@@ -1,3 +1,5 @@
+// Experimenting with strucures in c
+
 #include <stdio.h>
 
 struct complex
