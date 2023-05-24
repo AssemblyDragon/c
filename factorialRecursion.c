@@ -1,4 +1,6 @@
- #include<stdio.h>
+// finding factorial using recusion 
+
+#include<stdio.h>
 
 int factorial(int n){
     int m = 1;
