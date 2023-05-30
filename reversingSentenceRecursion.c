@@ -12,6 +12,7 @@ void reverse(){
     printf("%c", c);
 }
 
+
 int main(){
     printf("Enter a Sentence : ");
     reverse();
