@@ -10,9 +10,11 @@ int sum(int n){
 }
 
 int main(){
+    
     int n;
     printf("Enter Number : ");
     scanf("%d", &n);
     printf("Sum till n = %d natural numbers is : %d", n, sum(n));
+    
     return 0;
 }
