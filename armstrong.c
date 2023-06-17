@@ -8,8 +8,7 @@ int numberOfDigits(int n){
         n = n/10;
         s += 1;
     }
-    return s;
-    
+    return (s);  
 }
 
 int power(int n, int m){
